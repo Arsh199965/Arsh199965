@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate programmer who loves artificial intelligence and has always been fascinated by such intelligent architectures. I also love a bit of designing and creating ravishing frontend solutions. 
+I am a passionate programmer who loves artificial intelligence and has always been fascinated by such intelligent architectures. I also love a bit of designing and creating alluring software solutions. 
 
 
 ## 🌐 Socials:
